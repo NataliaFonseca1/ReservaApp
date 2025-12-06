@@ -34,3 +34,14 @@ CORS
 Observações
 - Flyway está habilitado; mantenha as migrations em `src/main/resources/db/migration`.
 - Para testes locais rápidos, mantenha o profile `dev` e o banco Postgres rodando no Docker.
+
+Vercel:
+https://reserva-app-front-xqga-le757tmpf-nataliafonseca1s-projects.vercel.app/
+
+Render: https://reservaapp-zb6y.onrender.com
+
+Integrantes do grupo: 
+
+Natália Ap Fonseca
+Yulla Mendonça
+Renan Antonialli
