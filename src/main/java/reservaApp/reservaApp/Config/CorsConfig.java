@@ -13,7 +13,8 @@ public class CorsConfig implements WebMvcConfigurer {
                 .allowedOrigins(
                         "http://localhost:5173",
                         "https://reserva-app-front-p8y3.vercel.app",
-                        "https://reserva-app-front-p8y3-85fuh53yd-nataliafonseca1s-projects.vercel.app"
+                        "https://reserva-app-front-p8y3-85fuh53yd-nataliafonseca1s-projects.vercel.app",
+                        "https://reserva-app-front-xqga-le757tmpf-nataliafonseca1s-projects.vercel.app"
                 )
                 .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                 .allowedHeaders("*")
